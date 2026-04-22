@@ -1,0 +1,9 @@
+{
+  "cSpell.words": [
+    "inbody",
+    "InBody"
+],
+"chat.tools.terminal.autoApprove": {
+    "npm install": true
+}
+}
