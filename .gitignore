@@ -5,5 +5,8 @@
 node_modules
 dist
 
+# example captured responses (may contain personal health data)
+example/output/
+
 *.txt
 *.zip
