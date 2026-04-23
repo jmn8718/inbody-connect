@@ -1,0 +1,14 @@
+example
+.vscode
+.github
+.git
+.gitignore
+.npmignore
+README.md
+LICENSE
+CHANGELOG.md
+CONTRIBUTING.md
+src
+docs
+tests
+coverage  
